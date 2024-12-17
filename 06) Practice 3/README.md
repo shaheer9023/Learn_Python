@@ -138,5 +138,3 @@ print(formatedletter)
 | **5**       | N/A                         | Dear Shaheer, <br> this python course is nice. <br> Thanks! |
 
 ---
-
-**Yeh tha har problem ka short Roman Urdu explanation aur output! Agar aur kisi cheez ki zarurat ho to batayein. 😊**
