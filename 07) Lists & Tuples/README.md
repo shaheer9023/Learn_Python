@@ -30,7 +30,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [1, 2, 7, 8, 15, 21]
    ```
 
-   **Roman Urdu:** `sort()` list ko ascending order mein arrange karta hai.
+   **Explanation:** `sort()` list ko ascending order mein arrange karta hai.
 
 2. **`l1.reverse()`**
    Reverses the list.
@@ -40,7 +40,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [15, 21, 2, 7, 8, 1]
    ```
 
-   **Roman Urdu:** `reverse()` list ke order ko ulta karta hai.
+   **Explanation:** `reverse()` list ke order ko ulta karta hai.
 
 3. **`l1.append(8)`**
    Adds 8 at the end of the list.
@@ -50,7 +50,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [15, 21, 2, 7, 8, 1, 8]
    ```
 
-   **Roman Urdu:** `append()` list ke end par element add karta hai.
+   **Explanation:** `append()` list ke end par element add karta hai.
 
 4. **`l1.insert(3, 8)`**
    Adds 8 at index 3.
@@ -60,7 +60,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [15, 21, 2, 8, 7, 8, 1]
    ```
 
-   **Roman Urdu:** `insert()` kisi bhi index par element insert karne ke liye use hota hai.
+   **Explanation:** `insert()` kisi bhi index par element insert karne ke liye use hota hai.
 
 5. **`l1.pop(2)`**
    Deletes the element at index 2 and returns its value.
@@ -71,7 +71,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [15, 21, 8, 7, 8, 1]
    ```
 
-   **Roman Urdu:** `pop()` kisi index ka element remove kar deta hai.
+   **Explanation:** `pop()` kisi index ka element remove kar deta hai.
 
 6. **`l1.remove(21)`**
    Removes the first occurrence of 21.
@@ -81,7 +81,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(l1)  # [15, 8, 7, 8, 1]
    ```
 
-   **Roman Urdu:** `remove()` specific element ko list se hata deta hai.
+   **Explanation:** `remove()` specific element ko list se hata deta hai.
 
 7. **`len(list)`**
    Returns the number of elements in the list.
@@ -90,7 +90,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(len(l1))  # 6
    ```
 
-   **Roman Urdu:** `len()` list ke total elements return karta hai.
+   **Explanation:** `len()` list ke total elements return karta hai.
 
 8. **`max(list)`**
    Returns the maximum value from the list.
@@ -99,7 +99,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(max(l1))  # 15
    ```
 
-   **Roman Urdu:** `max()` list ka sabse bada value find karta hai.
+   **Explanation:** `max()` list ka sabse bada value find karta hai.
 
 9. **`min(list)`**
    Returns the minimum value from the list.
@@ -108,7 +108,7 @@ l1 = [1, 8, 7, 2, 21, 15]
    print(min(l1))  # 1
    ```
 
-   **Roman Urdu:** `min()` list ka sabse chhota value return karta hai.
+   **Explanation:** `min()` list ka sabse chhota value return karta hai.
 
 10. **`sum(list)`**
     Returns the sum of all elements in the list.
@@ -117,7 +117,7 @@ l1 = [1, 8, 7, 2, 21, 15]
     print(sum(l1))  # 39
     ```
 
-    **Roman Urdu:** `sum()` list ke tamam elements ka total calculate karta hai.
+    **Explanation:** `sum()` list ke tamam elements ka total calculate karta hai.
 
 11. **`list.copy()`**
     Creates a copy of the list.
@@ -127,7 +127,7 @@ l1 = [1, 8, 7, 2, 21, 15]
     print(l2)  # [15, 8, 7, 8, 1]
     ```
 
-    **Roman Urdu:** `copy()` se list ki duplicate copy banayi jati hai.
+    **Explanation:** `copy()` se list ki duplicate copy banayi jati hai.
 
 12. **`list.extend(iterable)`**
     Adds all elements of another iterable to the list.
@@ -138,7 +138,7 @@ l1 = [1, 8, 7, 2, 21, 15]
     print(l1)  # [15, 8, 7, 8, 1, 20, 25]
     ```
 
-    **Roman Urdu:** `extend()` se list ke end par aur elements add kiye jate hain.
+    **Explanation:** `extend()` se list ke end par aur elements add kiye jate hain.
 
 ---
 
@@ -167,7 +167,7 @@ t1 = (1, 2, 3, 4, 2, 5, 6)
    print(len(t1))  # Output: 7
    ```
 
-   **Roman Urdu:** `len()` tuple ke total elements batata hai.
+   **Explanation:** `len()` tuple ke total elements batata hai.
 
 2. **`max(tuple)`**
    Returns the maximum value in the tuple.
@@ -176,7 +176,7 @@ t1 = (1, 2, 3, 4, 2, 5, 6)
    print(max(t1))  # Output: 6
    ```
 
-   **Roman Urdu:** `max()` tuple ka sabse bada value return karta hai.
+   **Explanation:** `max()` tuple ka sabse bada value return karta hai.
 
 3. **`min(tuple)`**
    Returns the minimum value in the tuple.
@@ -185,7 +185,7 @@ t1 = (1, 2, 3, 4, 2, 5, 6)
    print(min(t1))  # Output: 1
    ```
 
-   **Roman Urdu:** `min()` tuple ka sabse chhota value return karta hai.
+   **Explanation:** `min()` tuple ka sabse chhota value return karta hai.
 
 4. **`tuple.index(value)`**
    Returns the index of the first occurrence of the value.
@@ -194,7 +194,7 @@ t1 = (1, 2, 3, 4, 2, 5, 6)
    print(t1.index(4))  # Output: 3
    ```
 
-   **Roman Urdu:** `index()` kisi value ka pehla position return karta hai.
+   **Explanation:** `index()` kisi value ka pehla position return karta hai.
 
 5. **`tuple.count(value)`**
    Returns the count of the value's occurrences in the tuple.
@@ -203,7 +203,7 @@ t1 = (1, 2, 3, 4, 2, 5, 6)
    print(t1.count(2))  # Output: 2
    ```
 
-   **Roman Urdu:** `count()` batata hai ke ek value tuple mein kitni baar aayi hai.
+   **Explanation:** `count()` batata hai ke ek value tuple mein kitni baar aayi hai.
 
 ---
 

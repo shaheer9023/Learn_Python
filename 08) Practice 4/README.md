@@ -106,7 +106,7 @@ TypeError: 'tuple' object does not support item assignment
 
 #### **Code**:
 ```python
-list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+list = [1, 2, 3, 4]
 print(f"Sum of list is {sum(list)}")
 ```
 
@@ -117,7 +117,7 @@ print(f"Sum of list is {sum(list)}")
 
 #### **Output**:
 ```
-Sum of list is 55
+Sum of list is 4
 ```
 
 ---
