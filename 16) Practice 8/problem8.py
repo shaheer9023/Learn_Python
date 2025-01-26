@@ -1,4 +1,4 @@
-# Write a python function to print multiplication table of a given number.
+# 8.  Write a python function to print multiplication table of a given number.
 def table():
     number=int(input("Enter number "))
     for i in range(0,11):
