@@ -21,8 +21,3 @@ t3=threeDvector(33,45,66)
 print("-"*50)
 t3.show
 print("-"*50)
-        
-            
-
-    
-        
